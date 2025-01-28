@@ -1,0 +1,52 @@
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.exe.config
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.exe
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.pdb
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.xml
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.AssemblyReference.cache
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormUtama.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.Resources.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.GenerateResource.cache
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.CoreCompileInputs.cache
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.exe
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.xml
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.pdb
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormAdmin.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormLogin.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\MySql.Data.dll
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.CopyComplete
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormKategori.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormKategoriData.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormDataBarang.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.formBarang.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.Supplier.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.Produsen.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.BarangMasuk.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.barangClosing.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.LaporanGudang.resources
+D:\tugas akhir project Aplikasi Inventory Gudang kayu\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.LaporanBarang.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.exe.config
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.exe
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.pdb
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.xml
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\bin\Debug\MySql.Data.dll
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.AssemblyReference.cache
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.barangClosing.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.BarangMasuk.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormDataBarang.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormAdmin.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.formBarang.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormKategori.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormKategoriData.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormUtama.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.LaporanBarang.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.LaporanGudang.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.FormLogin.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.Resources.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.Produsen.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.Supplier.resources
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.GenerateResource.cache
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.CoreCompileInputs.cache
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi MGK PT. Meuble Indo Pasifik.vbproj.CopyComplete
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.exe
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.xml
+C:\Users\radit\Aplikasi MGK PT. Meuble Indo Pasifik (2)\Aplikasi MGK PT. Meuble Indo Pasifik\obj\Debug\Aplikasi_MGK_PT.Meuble_Indo_Pasifik.pdb

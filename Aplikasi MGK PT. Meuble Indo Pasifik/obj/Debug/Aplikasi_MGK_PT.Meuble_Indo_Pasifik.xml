@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Aplikasi_MGK_PT.Meuble_Indo_Pasifik
+</name>
+</assembly>
+<members>
+<member name="T:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources._32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.Product_Inventory">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.Product_Inventory1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.Product_Inventory2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.Product_Inventory3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.Screenshot_2023_11_27_141250">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.top">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.top1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Aplikasi_MGK_PT.Meuble_Indo_Pasifik.My.Resources.Resources.top2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

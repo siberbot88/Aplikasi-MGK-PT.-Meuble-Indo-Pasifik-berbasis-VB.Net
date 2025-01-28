@@ -25,7 +25,7 @@ Public Class barangClosing
     End Function
 
     Sub generatekode()
-        'fungsi GenerateCode untuk menghasilkan kode
+        'fungsi GenerateCode untuk menghasilkan kode random
         Dim inputText As String
         inputText = "MITRA"
         tbkdcl.Text = GenerateCode(inputText)
